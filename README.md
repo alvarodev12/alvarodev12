@@ -5,7 +5,7 @@ Meu nome é Álvaro Souza, um entusiasta de tecnologia, aprendendo Programação
 Este é o ambiente onde posso compartilhar, transformando ideias e inovações em código.
 <br>
 <br>
-°🎓 Estudando desenvolvimento Front End no Devclub.
+°🎓 Estudando desenvolvimento Front End no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 °💬 Estou à disposição para responder qualquer dúvida.
 <br>
