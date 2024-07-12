@@ -1,9 +1,12 @@
-## Hi there 👋
+Fala Devs 👋
 
 Olá, meu nome é Álvaro Souza, um entusiasta de tecnologia, aprendendo Programação em Desenvolvimento Front-end!
 <br>
 Este é o ambiente onde posso compartilhar, transformando ideias e inovações em código.
-
+<br>
+<br>
+°🎓 Estudando desenvolvimento Front End no Devclub.
+<br>
 °💬 Estou à disposição para responder qualquer dúvida.
 <br>
 °📫 Para entrar em contato comigo: @alvaarojogador
