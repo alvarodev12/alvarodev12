@@ -1,6 +1,6 @@
 Fala Devs 👋
 
-Olá, meu nome é Álvaro Souza, um entusiasta de tecnologia, aprendendo Programação em Desenvolvimento Front-end!
+Meu nome é Álvaro Souza, um entusiasta de tecnologia, aprendendo Programação em Desenvolvimento Front-end!
 <br>
 Este é o ambiente onde posso compartilhar, transformando ideias e inovações em código.
 <br>
