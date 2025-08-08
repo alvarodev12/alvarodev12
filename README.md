@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/code-typing.gif" width="250"/>
   <br/>
   <h1>Opa! Eu sou o Álvaro Souza</h1>
-  <h3>Desenvolvedor Front-End | Construindo Interfaces Modernas e Experiências de Usuário Cativantes</h3>
+  <h3>Desenvolvedor Front-End</h3>
 </div>
 
 <div align="center">
