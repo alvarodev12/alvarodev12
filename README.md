@@ -1,26 +1,68 @@
-Fala Devs 👋
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/code-typing.gif" width="250"/>
+  <br/>
+  <h1>Opa! Eu sou o Álvaro Souza</h1>
+  <h3>Desenvolvedor Front-End | Construindo Interfaces Modernas e Experiências de Usuário Cativantes</h3>
+</div>
 
-Meu nome é Álvaro Souza, um entusiasta de tecnologia, aprendendo Programação em Desenvolvimento Front-end!
-<br>
-Este é o ambiente onde posso compartilhar, transformando ideias e inovações em código.
-<br>
-<br>
-°🎓 Estudando desenvolvimento Front End no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<br>
-°💬 Estou à disposição para responder qualquer dúvida.
-<br>
-°📫 Para entrar em contato comigo: @alvaarojogador
-<br>
-<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alvarotsouza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alvarosouza.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
--   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+---
 
--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+### 👨‍💻 Sobre Mim
 
--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
+### 👨‍💻 Sobre Mim
 
--   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+<p>
+  Sou um desenvolvedor Front-End dedicado a criar soluções digitais que sejam não apenas funcionais, mas também intuitivas e elegantes. Fora do universo do código, você pode me encontrar nas quadras de basquete, na academia ou correndo na rua.
+</p>
+<p>
+  A mesma energia, foco e disciplina que aplico nos esportes, levo para cada projeto que desenvolvo, sempre em busca do melhor desempenho e de resultados extraordinários.
+</p>
+<p>
+  <b>Estou sempre aberto a novos desafios e colaborações.</b>
+</p>
 
-[![Álvaro stats](https://github-readme-stats.vercel.app/api?username=alvarodev12)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodev12&exclude_repo=github-readme-stats,anuraghazra.github.io)
+- 🔭 Atualmente trabalhando no projeto **BEWEAR**.
+- 🎓 Estudando na Formação **FullStack PRO** no **DevClub**.
+- 🌱 Aprofundando meus conhecimentos em **React, TypeScript e Node.js**.
+- 📫 Você pode me encontrar no Instagram **[@alvaarojogador](https://www.instagram.com/alvaarojogador/)** ou pelo **[LinkedIn](https://www.linkedin.com/in/alvarotsouza/)**.
+
+---
+
+### 🛠️ Tecnologias:
+
+#### 💻 Front-end:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+#### ⚙️ Back-end & Bancos de Dados:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/alvarodev12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarodev12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodev12&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
