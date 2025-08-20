@@ -28,7 +28,7 @@
   <b>Estou sempre aberto a novos desafios e colaborações.</b>
 </p>
 
--  Atualmente trabalhando no projeto **SELF-CHECKOUT**.
+-  Atualmente trabalhando no projeto **DevBurger**.
 -  Estudando na Formação **FullStack PRO** no **DevClub**.
 -  Aprofundando meus conhecimentos em **React, TypeScript e Node.js**.
 -  Você pode me encontrar no Instagram **[@alvaarojogador](https://www.instagram.com/alvaarojogador/)** ou pelo **[LinkedIn](https://www.linkedin.com/in/-alvarosouza/)**.
