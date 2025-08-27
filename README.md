@@ -19,7 +19,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor Front-End dedicado a criar soluções digitais que sejam não apenas funcionais, mas também intuitivas e elegantes. Fora do universo do código, você pode me encontrar nas quadras de basquete, na academia ou correndo na rua.
+  Sou um desenvolvedor Front-end dedicado a criar soluções digitais que sejam não apenas funcionais, mas também intuitivas e elegantes. Fora do universo do código, você pode me encontrar nas quadras de basquete, na academia ou correndo na rua.
 </p>
 <p>
   A mesma energia, foco e disciplina que aplico nos esportes, levo para cada projeto que desenvolvo, sempre em busca do melhor desempenho e de resultados extraordinários.
